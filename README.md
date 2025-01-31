@@ -1,29 +1,45 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=00F70E&width=435&lines=Ol%C3%A1%2C+sou+Yung+Takashi%2C+ou+takashito;me+chame+como+preferir;sou+um+programador;adoro+fazer+malwares+em+C%2B%2B;estou+me+aventurando+em+C%2B%2B;poucos+ir%C3%A3o+me+entender;mas+isso+%C3%A9+apenas+por+hobbie%2C+XD)](https://git.io/typing-svg)
+#                                                                    *1NSEC*
 
-# Olá, me chamo Takashi! 
-## Bem vindo ao meu perfil GitHub 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+
+
+<p align="center">Opa!, me chamo 1nsec, tenho 18 anos e atualmente estou morando no Rio Grande Do Sul, Brasil. Usuário 2009 ja coloquei pobres em cargos altos, fui acusado de ser scammer, derrubei mais de 100 servidores, zoei muitas pessoas e hoje elas me odeiam.
+</p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=1nsec&color=blueviolet" alt="maykbrito" /> </p>
+
+
+#                                                                    *Minhas redes sociais:*
+
+<p align="center">
+<a href="https://twitter.com/1nsecore" target="blank"><img align="center" src="https://www.gifservice.fr/img/gif-vignette-small/08fbc16f6a87f07f35676122a339b6c0/51748-multi-media-computer-software-internet-twitter.gif" alt="1nsec" height="50" width="50" /></a>
+<a href="https://instagram.com/1nsecore" target="blank"><img align="center" src="https://media0.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" alt="1nsec" height="50" width="50" /></a>
+</p>
+
+
+#                                                                    *Meu PC*
+
+      Processador Intel(R) Core(TM) i5-3470
+      Placa de Video GPU AMD RX 580
+      Ram 16 GB DDR4
+
+
+#                                                                    **Youtube**
+
+
+**Youtube Video**
+
+
+<a href="https://www.youtube.com/channel/UCtYKjmmDHf4Cjp1v-os5eTg" target="blank"><img align="right" alt="GIF" src="https://static.wixstatic.com/media/6bffcc_c6098b1dd9a542e18db4ad64699be580.gif" /></a>
+<p align="center">
+<a href="https://discord.gg/Kizuki" target="blank"><img align="center" src="https://discordemoji.com/assets/emoji/3702_party_discord.gif" alt="discord" height="60" width="60"/></a>
+</p>
