@@ -11,7 +11,7 @@
 <div align="center">
 
 
-<p align="center">Opa!, me chamo 1nsec, tenho 18 anos e atualmente estou morando no Rio Grande Do Sul, Brasil. Usuário 2009 ja coloquei pobres em cargos altos, fui acusado de ser scammer, derrubei mais de 100 servidores, zoei muitas pessoas e hoje elas me odeiam.
+<p align="center">OPAN! salve, sou Yung Takashi, sou um artista musical que faz parte do underground, as vezes, sou programador, e posto alguns malwares aqui, não sou scammer, apenas um programador que adora fazer alguns malwares de GDI, isso pode parecer irônico, mas fazer o que, eu sou eu, e você é você!
 </p>
 
 
@@ -39,7 +39,7 @@
 **Youtube Video**
 
 
-<a href="https://www.youtube.com/channel/UCtYKjmmDHf4Cjp1v-os5eTg" target="blank"><img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI0anM3ZmR4dWJmdmJpZ2ZueWhrMHp5ZG55MGg3MGNyMjdxcWtlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO8a9geBGZin6Q8I1O/giphy.gif" /></a>
+<a href="https://www.youtube.com/channel/UCtYKjmmDHf4Cjp1v-os5eTg" target="blank"><img align="right" alt="GIF" src="https://www.gifservice.fr/en/gif/multi-media-manga-fullmetal-alchemist-g17022-p371049-flarge.gif" /></a>
 <p align="center">
 <a href="https://discord.gg/Kizuki" target="blank"><img align="center" src="https://discordemoji.com/assets/emoji/3702_party_discord.gif" alt="discord" height="60" width="60"/></a>
 </p>
