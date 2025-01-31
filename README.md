@@ -1,4 +1,4 @@
-#                                                                    *1NSEC*
+#                                                                    *TAKASHITO A.K.A YUNG TAKASHI*
 
 
 
@@ -41,5 +41,3 @@
 
 <a href="https://www.youtube.com/channel/UCtYKjmmDHf4Cjp1v-os5eTg" target="blank"><img align="right" alt="GIF" src="https://www.gifservice.fr/en/gif/multi-media-manga-fullmetal-alchemist-g17022-p371049-flarge.gif" /></a>
 <p align="center">
-<a href="https://discord.gg/Kizuki" target="blank"><img align="center" src="https://discordemoji.com/assets/emoji/3702_party_discord.gif" alt="discord" height="60" width="60"/></a>
-</p>
